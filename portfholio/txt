@@ -1,0 +1,48 @@
+logo links:
+
+home logo= <i class="bi bi-house-fill"></i>
+
+about logo= <i class="bi bi-file-person"></i>
+
+sercives= <i class="bi bi-list"></i>
+
+setting= <i class="bi bi-gear"></i>
+
+portfoli= <i class="bi bi-briefcase-fill"></i>
+
+contact= <i class="bi bi-chat-dots-fill"></i>
+
+moon= <i class="bi bi-moon-fill"></i>
+
+setting 2=<i class="bi bi-gear-wide-connected"></i>
+
+calander= <i class="bi bi-calendar2-fill"></i>
+
+mobile= <i class="bi bi-phone"></i>
+
+laptop= <i class="bi bi-laptop"></i>
+
+paint= <i class="bi bi-palette-fill"></i>
+
+search= <i class="bi bi-search"></i>
+
+speaker= <i class="bi bi-megaphone"></i>
+
+code= <i class="bi bi-code-slash"></i>
+
+call= <i class="bi bi-telephone-forward-fill"></i>
+
+
+location= <i class="bi bi-geo-alt-fill"></i>
+
+
+email= <i class="bi bi-envelope-fill"></i>
+
+
+website= <i class="bi bi-globe-asia-australia"></i>
+
+
+close= <i class="bi bi-x-lg"></i>
+
+
+main= @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
